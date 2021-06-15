@@ -1,5 +1,15 @@
-### Hi there 👋
+### Fala Dev, seja muito bem vindo! 👋
 
+Me chamo Nadson, e atualmente moro em Porto Seguro-Ba.
+
+Sou servidor público, trabalho como Analista em TI em uma Universidade Federal.
+Tento me manter atualizado e próximo ao mercado desenvolvendo projetos como: 
+- Free lance; 
+- De interesse pessoal; 
+- Voluntário (ação social);
+- Participando de eventos de programação;
+
+Para mais detalhes, acesse minha página no [Linkedin](https://www.linkedin.com/in/nadson-cerqueira-7a765077/).
 <!--
 **nadsoncs/nadsoncs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
