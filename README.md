@@ -51,10 +51,10 @@
   <img align="center" src="https://img.shields.io/badge/-nadsoncs-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
 <a href="https://www.linkedin.com/in/nadson-cerqueira-7a765077/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-nadson-cerqueira-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-nadsoncerqueira-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://instagram.com/nadsoncerqueira" target="_blank">
- <img align="center" src="https://img.shields.io/badge/nadsoncerqueira?style=flat&logo=instagram" alt="instagram"/>
+ <img align="center" src="https://img.shields.io/badge/-nadsoncerqueira-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 
 </p>
